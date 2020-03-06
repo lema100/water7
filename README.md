@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/Gordon01/waviot-water7.svg?branch=master)](https://travis-ci.org/Gordon01/waviot-water7)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Gordon01_waviot-water7&metric=code_smells)](https://sonarcloud.io/dashboard?id=Gordon01_waviot-water7)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Gordon01_waviot-water7&metric=coverage)](https://sonarcloud.io/dashboard?id=Gordon01_waviot-water7)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Gordon01_waviot-water7&metric=alert_status)](https://sonarcloud.io/dashboard?id=Gordon01_waviot-water7)
-[![Documentation Status](https://readthedocs.org/projects/waviot-water7/badge/?version=latest)](https://waviot-water7.readthedocs.io/en/latest/?badge=latest)
+[![Build Status](https://travis-ci.org/lema100/water7.svg?branch=master)](https://travis-ci.org/lema100/water7)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=lema100_water7&metric=code_smells)](https://sonarcloud.io/dashboard?id=lema100_water7)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=lema100_water7&metric=coverage)](https://sonarcloud.io/dashboard?id=lema100_water7)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lema100_water7&metric=alert_status)](https://sonarcloud.io/dashboard?id=lema100_water7)
+[![Documentation Status](https://readthedocs.org/projects/water7/badge/?version=latest)](https://water7.readthedocs.io/en/latest/?badge=latest)
 # Waviot Water7 
 
 Application-level protocol
@@ -11,7 +11,7 @@ Application-level protocol
 
 [Official knowlege base](https://waviot.makekb.com/entry/8/)
 
-[Project documentation](https://waviot-water7.readthedocs.io/)
+[Project documentation](https://water7.readthedocs.io/)
 
 [VS Code coverage extension](https://marketplace.visualstudio.com/items?itemName=brainfit.vscode-coverage-highlighter)
 
